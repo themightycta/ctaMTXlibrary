@@ -4,7 +4,8 @@ A Java library for reading and writing Mediocre's MTX files.
 git clone https://github.com/themightycta/ctaMTXlibrary/
 # USAGE
 import org.deer21.mtxlibraryupdated.ctaMTX;
-7#EXAMPLE CODE
+
+#EXAMPLE CODE
 import org.deer21.mtxlibraryupdated.ctaMTX;
 
 import java.io.IOException;
